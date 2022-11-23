@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(238, 210, 134);
+}
+
+h3 {
+    color: rgb(82, 70, 18);
+    margin-bottom: 5px;
+}
+
+.fio {
+    margin: 3px;
+    padding: 5px;
+}
